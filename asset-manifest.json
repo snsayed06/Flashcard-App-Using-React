@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Flashcard-App-Using-React/static/css/main.bd385a52.chunk.css",
+    "main.js": "/Flashcard-App-Using-React/static/js/main.51ad2b44.chunk.js",
+    "main.js.map": "/Flashcard-App-Using-React/static/js/main.51ad2b44.chunk.js.map",
+    "runtime-main.js": "/Flashcard-App-Using-React/static/js/runtime-main.674a2011.js",
+    "runtime-main.js.map": "/Flashcard-App-Using-React/static/js/runtime-main.674a2011.js.map",
+    "static/js/2.29583c2a.chunk.js": "/Flashcard-App-Using-React/static/js/2.29583c2a.chunk.js",
+    "static/js/2.29583c2a.chunk.js.map": "/Flashcard-App-Using-React/static/js/2.29583c2a.chunk.js.map",
+    "index.html": "/Flashcard-App-Using-React/index.html",
+    "precache-manifest.080927bf1d7f7735429168d57ac42235.js": "/Flashcard-App-Using-React/precache-manifest.080927bf1d7f7735429168d57ac42235.js",
+    "service-worker.js": "/Flashcard-App-Using-React/service-worker.js",
+    "static/css/main.bd385a52.chunk.css.map": "/Flashcard-App-Using-React/static/css/main.bd385a52.chunk.css.map",
+    "static/js/2.29583c2a.chunk.js.LICENSE.txt": "/Flashcard-App-Using-React/static/js/2.29583c2a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.674a2011.js",
+    "static/js/2.29583c2a.chunk.js",
+    "static/css/main.bd385a52.chunk.css",
+    "static/js/main.51ad2b44.chunk.js"
+  ]
+}
