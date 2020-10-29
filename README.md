@@ -1,5 +1,12 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+![Preview](flash.png?raw=true)
+
+## Description
+
+A flashcard or flash card is a card bearing information on both sides, which is intended to be used as an aid in memorization. Each flashcard bears a question on one side and an answer on the other. Flashcards are often used to memorize vocabulary, historical dates or any subject matter
+that can be learned via a question-and-answer format.
+
 ## Available Scripts
 
 In the project directory, you can run:
